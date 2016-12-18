@@ -1,0 +1,12 @@
+.timer_wrapper 	{
+	text-align: center;
+	width: 70%;
+	float: right;
+	margin-right: 30px;
+}
+.timer_wrapper .timer_text1 	{
+	font-size: 20px;
+	color: #000;
+	font-weight: bold;
+	
+}

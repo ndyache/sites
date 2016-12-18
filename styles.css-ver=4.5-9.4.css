@@ -1,0 +1,44 @@
+.main-navigation 	{
+	position: relative;
+	font-family: "Open Sans", sans-serif;
+	font-weight: lighter;
+	
+}
+
+.main-navigation .menu-menu-1-container 	{
+	width: 50%;
+
+	padding-top: 15px;
+}
+.main-navigation a 	{
+	color: #fff;
+	padding: 9px 10px;
+	font-size: 16px;
+}
+.main-navigation ul 	{
+
+}
+.main-navigation li 	{
+	float: none;
+}
+.main-navigation li::after{
+content: "";
+    width: 15px;
+    height: 1px;
+    background-color: #fff;
+    color: #fff;
+    display: block;
+    margin-left: 40px;
+        top: -7px;
+    position: relative;
+}
+.main-navigation li a 	{
+	padding-left: 40px;
+	position: relative;
+	transition: 0.3s;
+}
+
+.main-navigation li.focus a, .main-navigation li a:hover	{
+	color: black;
+	background-color: #fff;
+}

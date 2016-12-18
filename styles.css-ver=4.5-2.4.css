@@ -1,0 +1,39 @@
+.slide_wrapper 	{
+	width: 100%;
+	background-color: transparent;
+}
+.slide_wrapper .slide 	{
+    float: left;
+
+}
+.slide .img_wrapper 	{
+	float: left;
+	width: 40%;
+	position: relative;
+}
+
+.slide .review_wrapper 	{
+
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    text-align: center;
+    width: 90%;
+    margin: 215px auto;
+}
+
+.slide .review_wrapper p 	{
+	margin-top: 0;
+}
+.slide .img_wrapper .author 	{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	background-color: rgba(235,171,193,0.7);
+}
+.slide .img_wrapper .author p 	{
+	margin: 0;
+	font-family: 'PlayfairDisplay-Bold', serif;
+	padding: 5px 0;
+	font-size: 1.5em;
+}

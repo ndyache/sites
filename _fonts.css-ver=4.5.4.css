@@ -1,0 +1,25 @@
+@font-face {
+	font-family:'PT_Sans';
+		src:url("PT_Sans.ttf"/*tpa=http://mebel.space-test.com.ua/wp-content/themes/landing-page/fonts/PT_Sans.ttf*/);
+	}
+@font-face {
+	font-family:'PT_Sans-Bold';
+		src:url("PT_Sans-Bold.ttf"/*tpa=http://mebel.space-test.com.ua/wp-content/themes/landing-page/fonts/PT_Sans-Bold.ttf*/);
+	}
+
+@font-face {
+	font-family:'PT_Sans-BoldItalic';
+		src:url("PT_Sans-Web-BoldItalic.ttf"/*tpa=http://mebel.space-test.com.ua/wp-content/themes/landing-page/fonts/PT_Sans-Web-BoldItalic.ttf*/);
+	}
+
+@font-face {
+	font-family:'PlayfairDisplay-Black';
+		src:url("PlayfairDisplay-Black.ttf"/*tpa=http://mebel.space-test.com.ua/wp-content/themes/landing-page/fonts/PlayfairDisplay-Black.ttf*/);
+	} 
+
+@font-face {
+	font-family:'PlayfairDisplay-Bold';
+		src:url("PlayfairDisplay-Bold.ttf"/*tpa=http://mebel.space-test.com.ua/wp-content/themes/landing-page/fonts/PlayfairDisplay-Bold.ttf*/);
+	} 
+
+}

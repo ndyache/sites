@@ -1,0 +1,23 @@
+.social_wrapper 	{
+	margin-top: 5px;
+	padding-bottom: 45px;
+	margin: 0 auto;
+	width: 19%;
+	margin-top: 50px;
+}
+.social_wrapper .social_title 	{
+	float: left;
+	margin-right: 12px;
+	padding-top: 3px;
+}
+.social_wrapper a 	{
+	color: white;
+	background-color: transparent;
+	text-align: center;
+	font-size: 1.2em;
+	display: block;
+	padding: 2px 8px;
+	float: left;
+	margin-right: 20px;
+	border: 2px solid #fff;
+}

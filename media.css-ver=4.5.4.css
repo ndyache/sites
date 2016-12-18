@@ -1,0 +1,87 @@
+@media (min-width: 1000px) 	{
+	.fw-container 	{
+		width: 1000px;
+	}
+}
+
+
+html body.home.page.page-id-2.page-template-default.logged-in.admin-bar.customize-support div.fancybox-overlay.fancybox-overlay-fixed div.fancybox-wrap.fancybox-desktop.fancybox-type-inline.fancybox-opened div.fancybox-skin div.fancybox-outer div.fancybox-inner div#form57497f5a7e98f.contactform_pop-up div#wpcf7-f4-p2-o1.wpcf7 form.wpcf7-form div.pol1 span.wpcf7-form-control-wrap.checkbox-590 span.wpcf7-form-control.wpcf7-checkbox.wpcf7-validates-as-required span.wpcf7-list-item.first.last{text-align:left;}
+html body.home.page.page-id-2.page-template-default.logged-in.admin-bar.customize-support div.fancybox-overlay.fancybox-overlay-fixed div.fancybox-wrap.fancybox-desktop.fancybox-type-inline.fancybox-opened div.fancybox-skin div.fancybox-outer div.fancybox-inner div#form57497f5a7e98f.contactform_pop-up div#wpcf7-f4-p2-o1.wpcf7 form.wpcf7-form div.pol1 span.wpcf7-form-control-wrap.checkbox-590 span.wpcf7-form-control.wpcf7-checkbox.wpcf7-validates-as-required span.wpcf7-list-item.first.last input{margin-left:55px;}
+
+.file-699{
+    position: relative;
+    overflow: hidden;
+    font-size: 1em;        
+    height: 2em;          
+    line-height: 2em;
+}
+.file-699 .button, .file-699 > mark{
+    display: block;
+    cursor: pointer              /* example */
+}
+.file-699 .button{
+    float: right;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    width: 60px!important;                  
+    height: 60px;
+    text-align: center;
+    color:transparent!important;
+    background:url("sss-1.png"/*tpa=http://story.odnapodruga.com/wp-content/uploads/2016/05/sss.png*/)no-repeat 50% 50%!important;           
+}
+.file-699 > mark{
+background: transparent;
+    width: 100%;
+    padding-left: 1em;
+    color: #fff;
+    padding-left: 0;
+}
+.file-699 .focus> mark{
+background: #7f47ea;
+    width: 100%;
+    padding-left: 1em;
+    color: #fff;
+    padding-left: 0;
+    position: absolute;
+    top: 0;
+}
+.file-699 input[type=file]{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    transform: scale(20);
+    letter-spacing: 10em;     
+    -ms-transform: scale(20); 
+    opacity: 0;
+    cursor: pointer
+}
+.second_file{z-index: 1;}
+.dnone_file{position: relative;z-index:0;}
+#error_me_please .wpcf7-not-valid-tip{position: absolute;top:0;}
+ .wpcf7-not-valid{border-width:4px;}
+.file-699 span.wpcf7-not-valid-tip{border-width:4px;}
+#wpcf7-f4-p2-o1 > form > div:nth-child(4) > span > span{display:none!important;}
+
+#error_me_please{
+    left: 0!important;
+    position: absolute!important;
+    width: 100%!important;
+    z-index: 2147483647!important;
+}
+#error_me_please.inset_yes{
+    -webkit-box-shadow: inset 0px 0px 0px 1px rgba(255,0,0,1)!important;
+-moz-box-shadow: inset 0px 0px 0px 1px rgba(255,0,0,1)!important;
+box-shadow: inset 0px 0px 0px 1px rgba(255,0,0,1)!important;
+}
+#error_me_please.inset_no{
+    -webkit-box-shadow: inset 0px 0px 0px 1px rgba(255,0,0,1)!important;
+    -moz-box-shadow: inset 0px 0px 0px 1px rgba(255,0,0,1)!important;
+    box-shadow: inset 0px 0px 0px 1px rgba(255,0,0,1)!important;
+}
+
+#wpcf7-f4-p2-o1 > form > div.pol1 > span > span.wpcf7-not-valid-tip{
+    left: 208px!important;
+    top: 2px!important;
+}

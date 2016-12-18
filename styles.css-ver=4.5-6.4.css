@@ -1,0 +1,14 @@
+.img_text_wrapper 	{
+	text-align: center;
+}
+.img_text_wrapper .fw-iconbox-text 	{
+	font-size: 1.2em;
+	margin: 10px 0;
+}
+.section-7 .img_text_wrapper .fw-iconbox-text 	{
+	font-size: 1.2em;
+	margin: 20px 0;
+}
+.img_text_wrapper .fw-iconbox-text p 	{
+	margin: 0;
+}
